@@ -2,7 +2,7 @@
 
 <img src="images/home.jpg" alt="Lumina Blog Starter Kit: copy these, type the rest" width="100%" />
 
-# Lumina Blog Starter Kit
+# Lumina Blog app for users
 
 
 [![Live demo](https://img.shields.io/badge/Live_demo-lumina.noksha.dev-C06B3D?style=for-the-badge)](https://lumina.noksha.dev)

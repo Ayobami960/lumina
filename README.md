@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/images/banner.jpg" alt="Lumina Blog Starter Kit: copy these, type the rest" width="100%" />
+<img src="images/home.jpg" alt="Lumina Blog Starter Kit: copy these, type the rest" width="100%" />
 
 # Lumina Blog Starter Kit
 

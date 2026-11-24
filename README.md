@@ -4,8 +4,7 @@
 
 # Lumina Blog Starter Kit
 
-[![Watch the course](https://img.shields.io/badge/Watch_the_course-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/W6vl0Il5c0I)
-[![Get the full source code](https://img.shields.io/badge/Full_source_code-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/reactbd/e/597995)
+
 [![Live demo](https://img.shields.io/badge/Live_demo-lumina.noksha.dev-C06B3D?style=for-the-badge)](https://lumina.noksha.dev)
 
 ![Next.js 16](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white)

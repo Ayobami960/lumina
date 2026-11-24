@@ -1,0 +1,26 @@
+services:
+  db:
+    image: postgres:17-alpine
+    container_name: lumina-db
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_USER: lumina
+      POSTGRES_PASSWORD: lumina
+      POSTGRES_DB: lumina
+
+    ports:
+      - "5433:5432"
+
+    volumes:
+      - lumina_pg:/var/lib/postgresql/data
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U lumina -d lumina"]
+      interval: 2s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  lumina_pg:
+    driver: local
